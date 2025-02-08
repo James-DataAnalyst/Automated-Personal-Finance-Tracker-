@@ -18,6 +18,8 @@ The tracker consists of eight interconnected tabs, each serving a specific funct
 
 ![](R1.PNG)
 
+[Watch video](https://drive.google.com/file/d/1EH_-br8BqMeoNY6-JRq7NISNEJd64AQV/view?usp=sharing)
+
 This tab serves as a quick-start guide explaining:
 - How to input data into the tracker
 - An overview of automated calculations
@@ -108,6 +110,8 @@ _Automation: Uses Google Finance functions to fetch live stock data._
 ### 9. Summary Dashboard
 
 ![](R9.PNG)
+
+[Watch video](https://drive.google.com/file/d/1EH_-br8BqMeoNY6-JRq7NISNEJd64AQV/view?usp=sharing)
 
 The summary dashboard presents high-level financial insights at a glance, including:
 - Total Income vs. Total Expenses
