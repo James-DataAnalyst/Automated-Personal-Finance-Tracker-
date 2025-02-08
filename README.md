@@ -1,1 +1,3 @@
-# Automated-Personal-Finance-Tracker-
+# Automated Personal Finance Tracker – A Google Sheets Solution
+
+![](Financial.jpeg)
