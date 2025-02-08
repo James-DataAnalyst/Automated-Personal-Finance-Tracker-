@@ -46,9 +46,24 @@ This tab automatically categorizes income and expenses, offering insights into:
 - 
 _Automation: Built-in formulas update totals instantly when new transactions are added._
 
-### 4. Balance Sheet Tab
+### 4. Budgeting Tab
 
 ![](R4.PNG)
+
+The budgeting tab helps users set spending limits for different categories and track actual expenses against them.
+
+- Define budgets for key spending categories (e.g., Housing, Food, Entertainment)
+- Track actual spending vs. budgeted amounts
+- Color-coded alerts:
+- Green = Within budget
+- Yellow = Nearing budget
+- Red = Over budget
+
+_Automation: Uses conditional formatting to visually indicate spending trends._
+
+### 5. Balance Sheet Tab
+
+![](R5.PNG)
 
 The balance sheet provides a snapshot of financial health, summarizing:
 - Assets: Cash, Bank Balances, Investments
@@ -57,9 +72,9 @@ The balance sheet provides a snapshot of financial health, summarizing:
 
 _Automation: Automatically pulls data from savings, debt, and investment tabs._
 
-### 5. Debt Tracking Tab
+### 6. Debt Tracking Tab
 
-![](R5.PNG)
+![](R6.PNG)
 
 Debt tracking is crucial for financial stability. This tab helps users:
 - List all outstanding debts (e.g., Credit Cards, Student Loans, Personal Loans)
@@ -68,9 +83,9 @@ Debt tracking is crucial for financial stability. This tab helps users:
 
 _Automation: Color-coded progress bars indicate repayment completion status._
 
-### 6. Savings Tracker Tab
+### 7. Savings Tracker Tab
 
-![](R6.PNG)
+![](R7.PNG)
 
 This tab is designed to help users set and achieve savings goals:
 -Categories: Emergency Fund, Travel, Retirement, etc.
@@ -79,9 +94,9 @@ Deposit Tracking: Automatically logs deposits made from the Transactions tab
 
 _Automation: Uses progress indicators to show how close each goal is to completion._
 
-### 7. My Stock Portfolio Tab
+### 8. My Stock Portfolio Tab
 
-![](R7.PNG)
+![](R8.PNG)
 
 For users investing in stocks, this tab offers:
 - Portfolio Overview: List of owned stocks and quantities
@@ -90,9 +105,9 @@ For users investing in stocks, this tab offers:
 
 _Automation: Uses Google Finance functions to fetch live stock data._
 
-### 8. Summary Dashboard
+### 9. Summary Dashboard
 
-![](R8.PNG)
+![](R9.PNG)
 
 The summary dashboard presents high-level financial insights at a glance, including:
 - Total Income vs. Total Expenses
